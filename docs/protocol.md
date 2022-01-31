@@ -26,7 +26,7 @@
   - [Chset](#chset)
   - [Custom](#custom-server-bound)
   - [Devices](#devices)
-  - [Dm](#dm-server-bound)
+  - [Dm](#dm-server-bound
   - [Hi](#hi-server-bound)
   - [Kickban](#kickban)
   - [M](#m-server-bound)
